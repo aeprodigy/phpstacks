@@ -1,0 +1,16 @@
+button{
+    background-color: red;
+    border-radius: 5px;
+    border: solid 2px wheat;
+    padding: 2rem;
+}
+button:hover{
+    color: azure;
+    font-weight: bold;
+
+}
+p{
+    color: orange;
+    font-weight: bold;
+    background-color: black;
+}
